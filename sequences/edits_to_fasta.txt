@@ -1,0 +1,17 @@
+
+Edits made to p450_output.fasta
+
+The following labeling inconsistencies where identified and fixed manually
+The edited fasta file was saved as p450_edit.fasta
+
+ordering of accession and Positive_Control indicator
+>NA~Kt_281-unknown -> >Kt_281~NA-unknown
+
+variations in indicating unknown regioselectivity 
+>KU878866~NA-unknown_regioselectivity -> KU878866~NA-unknown
+
+mispelling
+>ALR73781.1~NA-Unkown -> >ALR73781.1~NA-unknown
+
+Duplicate entires
+>APZ88353_1_NA_C_28

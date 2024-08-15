@@ -1,0 +1,1 @@
+from .UniProt_ID_Mapping import uniprot_id_mapping, POLLING_INTERVAL

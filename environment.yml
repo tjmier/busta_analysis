@@ -1,0 +1,19 @@
+name: busta
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+# Core dependencies
+  - python=3
+# Python packages
+  - biotite
+  - pandas
+  - numpy
+  - matplotlib
+  - ipykernel
+# Command Line Tools
+  - foldseek
+  - mmseqs2
+# Testing
+  - pytest
