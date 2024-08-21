@@ -15,5 +15,4 @@ dependencies:
 # Command Line Tools
   - foldseek
   - mmseqs2
-# Testing
-  - pytest
+  - foldmason
