@@ -16,3 +16,4 @@ dependencies:
   - foldseek
   - mmseqs2
   - foldmason
+  - hmmer

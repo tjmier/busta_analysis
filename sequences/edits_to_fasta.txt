@@ -14,4 +14,8 @@ mispelling
 >ALR73781.1~NA-Unkown -> >ALR73781.1~NA-unknown
 
 Duplicate entires
->APZ88353_1_NA_C_28
+>APZ88353.1~NA-C_28
+
+All headers were then flattened such that all unique characters were replacted by "_"
+file saved as p450_flat.fasta
+>APZ88353.1~NA-C_28 -> >APZ88353_1_NA_C_28

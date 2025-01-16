@@ -1,6 +1,6 @@
 #!/bin/bash
 
-fasta_path="sequences/p450_output.fasta"
+fasta_path="sequences/p450_flat.fasta"
 results_tsv_path="mmseqs/mmseqs_results.tsv"
 
 # create temporary directory to store mmseq files
